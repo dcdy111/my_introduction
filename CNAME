@@ -1,0 +1,7 @@
+# Place your custom domain here, e.g.:
+# yourname.com
+#
+# Then in your DNS settings, add a CNAME record pointing to:
+# <your-github-username>.github.io
+#
+# Finally, go to your repository Settings → Pages → Custom domain and enter your domain.
